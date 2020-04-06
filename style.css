@@ -1,0 +1,25 @@
+.paragraph {
+font-size: 20px;
+line-height: 20px;
+font-family: arial;
+}
+.heading {
+font-size: 45px;
+line-height: 20px;
+font-family: 'Ubuntu', sans-serif;
+}
+.heading2 {
+font-size: 35px;
+line-height: 20px;
+font-family: arial;
+}
+.heading5 {
+font-size: 15px;
+line-height: 20px;
+font-family:  'Ubuntu', sans-serif;
+}
+.heading6 {
+font-size: 10px;
+line-height: 20px;
+font-family:  'Ubuntu', sans-serif;
+}
